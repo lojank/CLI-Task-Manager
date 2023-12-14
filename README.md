@@ -1,13 +1,6 @@
 # CLI-Task-Manager
 This CLI (Command-Line Interface) Task Manager is a Node.js application that interacts with a PostgreSQL database using the pg library to manage tasks.
 
-## Commands
-- --list [all|pending|done]: Lists current tasks based on their completion status.
-- --new <task_name>: Creates a new task using the provided name.
-- --delete <id>: Deletes a task using its ID.
-- --done <id>: Marks a task as complete using its ID.
-- -h, --help: Shows a list of available commands and explanations.
-
 ## Version
 The current version of the CLI Task Manager is 0.0.1.
 
